@@ -1,0 +1,54 @@
+*{
+  font-family: 'Nunito', sans-serif;
+ padding: 0;
+ margin: 0;
+}
+.btn.btn-outline-primary{
+ width: 150px;
+ border-radius: 20px;
+}
+.btn.btn-secondary{
+  width: 150px;
+   border-radius: 20px;
+}
+.jumbotron-fluid{
+  margin-top: 25px;
+ margin-left: 40px;
+ margin-right: 40px;
+border-radius:40px;
+color: blue;
+
+}
+.text{
+  text-align: center;
+ 
+}
+.feature{
+  margin-top: 25px;
+  margin-bottom: 25px;
+  text-align: center;
+color: blue;
+}
+.img-fluid.product{
+width: 50px;
+}
+.container.describe{
+  margin-top: 15px;
+}
+.card{
+  margin-bottom: 15px;
+}
+
+/* .scrollTop{
+  position: fixed;
+  right: 10px;
+  bottom: 20px;
+  display: grid;
+  height: 70px;
+  width: 70px;
+  place-items: center;
+ 
+  background-color: green;
+  border-radius: 5px;
+  z-index: var(--z-tolltip);
+} */
